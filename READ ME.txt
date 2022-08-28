@@ -1,0 +1,9 @@
+Hello
+
+Here i developed an environment where manager can create, delete, mark attenedence, check and mark attendance application in command line.
+Also the employees can view their attendance, aplly for leave application.
+
+I used XAMPP for interconnection interperer with Apache and SQL Database.
+[All entries are in zipped in both .csv & .sql format.]
+
+[Admin password is in code.]
